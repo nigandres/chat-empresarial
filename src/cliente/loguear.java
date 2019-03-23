@@ -59,7 +59,7 @@ public class loguear {
 		frmLoginServidor.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frmLoginServidor.getContentPane().setLayout(null);
 		
-		JLabel lblUsuario = new JLabel("usuario");
+		JLabel lblUsuario = new JLabel("USUARIO");
 		lblUsuario.setBounds(238, 53, 64, 14);
 		frmLoginServidor.getContentPane().add(lblUsuario);
 		
